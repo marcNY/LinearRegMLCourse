@@ -1,12 +1,10 @@
-#Machine Learning Course Homework 1
-
-##Summary
+## Summary
 This is the first homework of the course  CSMM.102x Machine Learning available on [edx](edx.org)
 There are two parts: 
 - in part 1 we implement the ridge regression algorithm
 - in part 2 we implement an active learning procedure
 
-##Running the Program
+## Running the Program
 
 The program can be launched from a command line interface using a line: 
 
