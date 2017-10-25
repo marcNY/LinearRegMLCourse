@@ -52,6 +52,7 @@ def run_part2(args):
     input_args = get_input_data(args)
     print input_args
     X_train, Y_train, X_test = get_vectors(input_args)
+
     output = analyseorder(input_args['sigma'], input_args['lambda'], X_train, Y_train, X_test)
     print_results(output, input_args['lambda'], input_args['sigma'])
     pass
